@@ -41,7 +41,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/KanungoShubham">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=KanungoShubham&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy-fork-two.vercel.app/?username=KanungoShubham&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" />
   </a>
 </p>
 <br/>
@@ -113,9 +113,13 @@ Learning Management System — React, Node.js, MySQL, Tailwind CSS
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
 
-<a href="mailto:shubhamkanungo37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/shubhamkanungo7a6bba180"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://shubhamkanungo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:shubhamkanungo37@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="42" height="42" alt="Gmail" /></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shubhamkanungo7a6bba180"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://shubhamkanungo.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" height="42" alt="Portfolio" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/KanungoShubham"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" /></a>
 
 </div>
 <br/>
