@@ -41,7 +41,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/KanungoShubham">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy-winning.vercel.app/?username=KanungoShubham&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" />
+    <img alt="GitHub Trophies" src="./trophy.svg" />
   </a>
 </p>
 <br/>
@@ -67,7 +67,7 @@
 <!--Snake-->
 <h2 align="center">🐍 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Sɴᴀᴋᴇ 🐍</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KanungoShubham/KanungoShubham/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/KanungoShubham/KanungoShubham/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 <p align="center"><i>Enable via the <code>Platane/snk</code> GitHub Action — setup notes at the bottom.</i></p>
 <br/>
