@@ -41,7 +41,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/KanungoShubham">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy-fork-two.vercel.app/?username=KanungoShubham&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy-winning.vercel.app/?username=KanungoShubham&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" />
   </a>
 </p>
 <br/>
