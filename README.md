@@ -115,7 +115,7 @@ Learning Management System — React, Node.js, MySQL, Tailwind CSS
 
 <a href="mailto:shubhamkanungo37@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="42" height="42" alt="Gmail" /></a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/shubhamkanungo7a6bba180"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/shubhamkanungo7a6bba180"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="42" height="42" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="https://shubhamkanungo.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" height="42" alt="Portfolio" /></a>
 &nbsp;&nbsp;
