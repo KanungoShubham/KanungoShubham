@@ -41,52 +41,20 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/KanungoShubham">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=KanungoShubham&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=KanungoShubham&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" />
   </a>
 </p>
 <br/>
 
-<!--Stats Table-->
+<!--Stats-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h3>
-      <p align="center">
-        <a href="https://github.com/KanungoShubham">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=KanungoShubham&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</h3>
-      <p align="center">
-        <a href="https://github.com/KanungoShubham">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KanungoShubham&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Fᴇᴀᴛᴜʀᴇᴅ Rᴇᴘᴏ</h3>
-      <p align="center">
-        <a href="https://github.com/KanungoShubham/KanungoShubham">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=KanungoShubham&repo=KanungoShubham&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</h3>
-      <p align="center">
-        <a href="https://github.com/KanungoShubham">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanungoShubham&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=KanungoShubham&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanungoShubham&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" height="165" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KanungoShubham&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
+</p>
 <br/>
 
 <!--Contribution Graph-->
@@ -108,17 +76,28 @@
 <h2 align="center">💼 Exᴘᴇʀɪᴇɴᴄᴇ Hɪɢʜʟɪɢʜᴛs</h2>
 
 **Lead Frontend Engineer** · Sustainext &nbsp;·&nbsp; <sub>Jan 2024 – Present</sub>
+
 Enterprise ESG platform — Next.js 14, React, Tailwind, MySQL, Azure AD, OCR, LLM APIs
 - Lifted Lighthouse score **62 → 91**, cut page load time **40%**
 - Built an AI agent (OCR + LLM) auto-classifying GHG emissions, cutting manual work **~70%**
 - Replaced legacy auth with Azure AD SSO + RBAC; mentored a 4-engineer team
 
 **Senior Software Developer** · Accredian Pvt Ltd &nbsp;·&nbsp; <sub>Oct 2021 – Dec 2023</sub>
+
 Learning Management System — React, Node.js, MySQL, Tailwind CSS
 - Built an LMS from scratch now serving **10,000+ active students**
 - Automated course/quiz workflows, cutting admin workload **60%**
 - Integrated Zoom & Thinkific to power **200+ live courses**
 
+<br/>
+
+<!--Featured Repo-->
+<h2 align="center">🌟 Fᴇᴀᴛᴜʀᴇᴅ Rᴇᴘᴏ</h2>
+<p align="center">
+  <a href="https://github.com/KanungoShubham/KanungoShubham">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=KanungoShubham&repo=KanungoShubham&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" />
+  </a>
+</p>
 <br/>
 
 <!--Quote Card-->
