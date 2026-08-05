@@ -1,7 +1,7 @@
 <!--Header-->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Shubham%20Kanungo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Frontend%20Engineer%20%7C%20React.js%20%26%20Next.js%20Specialist&descAlignY=58&descSize=17" width="100%" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C56A90&center=true&vCenter=true&width=650&lines=7%2B+Years+Building+Production+Web+Platforms;React.js+%26+Next.js+14+Specialist;AI+Agents+%2B+LLM+Integration+(Claude%2C+OpenAI);Open+to+Remote%2C+Hybrid+%26+Global+Roles" alt="Typing SVG" />
 
