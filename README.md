@@ -32,7 +32,7 @@
 <h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,bootstrap,nodejs,express,php,laravel,mysql,azure,git,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,bootstrap,nodejs,express,php,laravel,mysql,postgres,aws,azure,git,figma&theme=dark" />
 
 </div>
 <br/>
@@ -91,6 +91,24 @@ Learning Management System — React, Node.js, MySQL, Tailwind CSS
 
 <br/>
 
+<!--Featured Projects-->
+<h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
+
+**[Jobstm](https://jobstm.co/)** — Verification-First Gig Hiring Platform &nbsp;·&nbsp; <sub>[Case Study](https://shubhamkanungo.vercel.app/projects/jobstm)</sub>
+- Mobile app (Expo/React Native) + Next.js admin + Express API on AWS
+- Mobile OTP + Aadhar identity verification, 14-domain REST API, role-based portals
+
+**[Sustainext](https://sustainext-udm.sustainext.ai/)** — ESG AI Agent & Reporting Platform &nbsp;·&nbsp; <sub>[Case Study](https://shubhamkanungo.vercel.app/projects/sustainext)</sub>
+- Enterprise ESG platform — Lighthouse 62 → 91, OCR + LLM emissions classification pipeline
+
+**[Accredian LMS](https://accredian.com/)** — Learning Management System
+- Built from scratch, now serving 10,000+ active students
+
+**[Mojakart](https://mojakart.co.mu/)** — E-Commerce Platform
+- Laptops, desktops, mobiles & tablets storefront for the Mauritius market
+
+<br/>
+
 <!--Featured Repo-->
 <h2 align="center">🌟 Fᴇᴀᴛᴜʀᴇᴅ Rᴇᴘᴏ</h2>
 <p align="center">
@@ -115,7 +133,7 @@ Learning Management System — React, Node.js, MySQL, Tailwind CSS
 
 <a href="mailto:shubhamkanungo37@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="42" height="42" alt="Gmail" /></a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/shubhamkanungo7a6bba180"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="42" height="42" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/shubham-kanungo-7a6bba180"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="42" height="42" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="https://shubhamkanungo.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" height="42" alt="Portfolio" /></a>
 &nbsp;&nbsp;
