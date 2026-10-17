@@ -1,4 +1,4 @@
-name: Profile — 3D city + stats
+name: Profile — stats + pulse
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
     branches: [main]
     paths-ignore:
       - "stats.svg"
-      - "profile-3d-contrib/**"
+      - "pulse.svg"
 
 permissions:
   contents: write
@@ -18,12 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: 3D contribution city
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
 
       - name: Stats card
         continue-on-error: true
@@ -36,6 +30,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A profile-3d-contrib stats.svg
-          git commit -m "chore: refresh 3D city and stats" || exit 0
+          git add -A stats.svg pulse.svg
+          git commit -m "chore: refresh stats and pulse" || exit 0
           git push

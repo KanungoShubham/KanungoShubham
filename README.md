@@ -52,11 +52,11 @@
 
 <br/><br/>
 
-## 🌃 My contribution city
+## 📈 My shipping pulse
 
-*Every commit builds another tower — rebuilt automatically every day.*
+*Twelve months of commits, one glowing ridge per month — the taller the peak, the busier the day. Rebuilt every day.*
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+<img src="./pulse.svg" alt="Contribution pulse: 12 months of activity as ridgelines, with streaks and busiest weekdays" width="100%"/>
 
 <br/><br/>
 
