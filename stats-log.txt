@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/home/runner/work/KanungoShubham/KanungoShubham/stats.py", line 167, in <module>
-    build(sample() if "--sample" in sys.argv else fetch())
-                                                  ^^^^^^^
-  File "/home/runner/work/KanungoShubham/KanungoShubham/stats.py", line 52, in fetch
-    u = data["user"]
-        ~~~~^^^^^^^^
-KeyError: 'user'

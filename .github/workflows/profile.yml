@@ -30,12 +30,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
-        run: python3 stats.py > stats-log.txt 2>&1 || true
+        run: python3 stats.py
 
       - name: Commit & push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A profile-3d-contrib stats.svg stats-log.txt
+          git add -A profile-3d-contrib stats.svg
           git commit -m "chore: refresh 3D city and stats" || exit 0
           git push

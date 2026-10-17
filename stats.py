@@ -49,7 +49,7 @@ def fetch():
     data = json.load(urllib.request.urlopen(req))
     if "errors" in data:
         raise SystemExit(data["errors"])
-    u = data["user"]
+    u = data["data"]["user"]
     repos = u["repositories"]["nodes"]
     langs = {}
     for r in repos:
