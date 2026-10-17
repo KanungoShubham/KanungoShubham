@@ -428,14 +428,14 @@ jr_css = """
   .trail { stroke-dasharray: 1100; stroke-dashoffset: 1100; animation: draw 3s ease forwards; }
 """
 jobs = [
-    ("2016", "Naresh IT", "Fresher", "#8b8f9c"),
-    ("2018", "WCSL Ltd", "PHP · Laravel", "#a99bff"),
-    ("2020", "Dream Web", "PHP Developer", "#ff7a6b"),
-    ("2021", "Accredian", "Senior SWE · LMS", "#4fd1c5"),
-    ("2024", "Sustainext", "Lead Frontend · AI", "#f5b544"),
-    ("2026", "Your team?", "let's talk", "#34d399"),
+    ("2016", "Hello, World", "HTML · CSS · JavaScript", "#8b8f9c"),
+    ("2018", "Backend era", "PHP · Laravel · MySQL", "#a99bff"),
+    ("2020", "Web apps", "dashboards · data models", "#ff7a6b"),
+    ("2021", "Full-stack JS", "React · Node.js · REST", "#4fd1c5"),
+    ("2024", "AI + Next.js", "TypeScript · SSR · LLMs", "#f5b544"),
+    ("2026", "What's next?", "let's build it", "#34d399"),
 ]
-jr = '<text x="48" y="60" class="muted mono" font-size="13">// git log --career --oneline</text>'
+jr = '<text x="48" y="60" class="muted mono" font-size="13">// git log --stack --oneline</text>'
 jr += '<path class="trail" d="M90 170 H1110" stroke="url(#trailg)" stroke-width="3" fill="none" stroke-linecap="round"/>'
 for i, (yr, co, role, c) in enumerate(jobs):
     x = 90 + i * 204
