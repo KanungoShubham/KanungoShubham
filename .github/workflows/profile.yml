@@ -1,0 +1,41 @@
+name: Profile — 3D city + stats
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # daily, 11:30 PM IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "stats.svg"
+      - "profile-3d-contrib/**"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 3D contribution city
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Stats card
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 stats.py
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib stats.svg
+          git commit -m "chore: refresh 3D city and stats" || exit 0
+          git push

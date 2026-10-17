@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO — portrait + name + rotating roles -->
-<a href="https://shubhamkanungo.vercel.app"><img src="./hero.svg?v=1" alt="Hi, I'm Shubham Kanungo — Full Stack Web Application Developer" width="100%"/></a>
+<a href="https://shubhamkanungo.vercel.app"><img src="./hero.svg?v=2" alt="Hi, I'm Shubham Kanungo — Full Stack Web Application Developer" width="100%"/></a>
 
 <br/>
 
@@ -12,17 +12,22 @@
 <br/><br/>
 
 <!-- 🧩 LEFT: what I build   •   🔁 RIGHT: how I work -->
-<img src="./about.svg?v=1" alt="What I build and how I work" width="100%"/>
+<img src="./about.svg?v=2" alt="What I build and how I work" width="100%"/>
 
 <br/><br/>
 
 <!-- ⚛️ TECH STACK -->
-<img src="./stack.svg?v=1" alt="Tech stack" width="100%"/>
+<img src="./stack.svg?v=2" alt="Tech stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 DEVELOPER ID + IMPACT DASHBOARD -->
-<img src="./id-dashboard.svg?v=1" alt="Developer ID and impact dashboard" width="100%"/>
+<img src="./id-dashboard.svg?v=2" alt="Developer ID and impact dashboard" width="100%"/>
+
+<br/><br/>
+
+<!-- 📊 LIVE GITHUB STATS — commits, repos, PRs, streak, languages (refreshed daily) -->
+<img src="./stats.svg" alt="GitHub stats: commits, repositories, pull requests, streak and top languages" width="100%"/>
 
 <br/><br/>
 
@@ -43,7 +48,7 @@
 
 ## 🧭 The journey so far
 
-<img src="./journey.svg?v=1" alt="Career timeline" width="100%"/>
+<img src="./journey.svg?v=2" alt="Career timeline" width="100%"/>
 
 <br/><br/>
 
@@ -56,7 +61,7 @@
 <br/><br/>
 
 <!-- 💌 LET'S CONNECT -->
-<a href="https://shubhamkanungo.vercel.app"><img src="./connect.svg?v=1" alt="Let's collaborate" width="100%"/></a>
+<a href="https://shubhamkanungo.vercel.app"><img src="./connect.svg?v=2" alt="Let's collaborate" width="100%"/></a>
 
 <a href="https://shubhamkanungo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-f5b544?style=for-the-badge&logo=vercel&logoColor=0e0f13" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/shubham-kanungo-7a6bba180"><img src="https://img.shields.io/badge/LinkedIn-4fd1c5?style=for-the-badge&logo=linkedin&logoColor=0e0f13" alt="LinkedIn"/></a>
@@ -65,7 +70,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KanungoShubham&color=f5b544&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=KanungoShubham.KanungoShubham&left_text=PROFILE%20VIEWS&left_color=%230e0f13&right_color=%23f5b544" alt="Profile views"/>
 
 <br/>
 
