@@ -433,7 +433,7 @@ jobs = [
     ("2020", "Web apps", "dashboards · data models", "#ff7a6b"),
     ("2021", "Full-stack JS", "React · Node.js · REST", "#4fd1c5"),
     ("2024", "AI + Next.js", "TypeScript · SSR · LLMs", "#f5b544"),
-    ("2026", "What's next?", "let's build it", "#34d399"),
+    ("2026", "AI Agents", "agents · AI automation", "#34d399"),
 ]
 jr = '<text x="48" y="60" class="muted mono" font-size="13">// git log --stack --oneline</text>'
 jr += '<path class="trail" d="M90 170 H1110" stroke="url(#trailg)" stroke-width="3" fill="none" stroke-linecap="round"/>'

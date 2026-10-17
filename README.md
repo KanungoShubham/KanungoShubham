@@ -48,7 +48,7 @@
 
 ## 🧭 The journey so far
 
-<img src="./journey.svg?v=3" alt="Career timeline" width="100%"/>
+<img src="./journey.svg?v=4" alt="Career timeline" width="100%"/>
 
 <br/><br/>
 
