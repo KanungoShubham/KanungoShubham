@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Let's connect">
+<style>
+  .bg { fill: #0e0f13; }
+  .panel { fill: #15171d; stroke: #262a35; stroke-width: 1; }
+  .grid { stroke: #1c1f27; stroke-width: 1; }
+  .ink { fill: #ece9e1; font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .muted { fill: #8b8f9c; font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; }
+  .amber { fill: #f5b544; } .teal { fill: #4fd1c5; } .coral { fill: #ff7a6b; } .violet { fill: #a99bff; }
+  .fade { opacity: 0; animation: fade .8s ease forwards; }
+  @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .draw { stroke-dasharray: 1200; stroke-dashoffset: 1200; animation: draw 2.4s ease forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .pulse { animation: pulse 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(1.6); } }
+
+  .wave { animation: wave 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: 70% 80%; }
+  @keyframes wave { 0%,60%,100% { transform: rotate(0); } 10%,30% { transform: rotate(14deg); } 20%,40% { transform: rotate(-8deg); } }
+  .spin { transform-origin: 1050px 130px; animation: sp 18s linear infinite; }
+  @keyframes sp { to { transform: rotate(360deg); } }
+  .cta { animation: cta 3s ease-in-out infinite; }
+  @keyframes cta { 50% { opacity: .75; } }
+</style>
+<defs>
+  <clipPath id="frame"><rect x="0" y="0" width="1200" height="260" rx="22"/></clipPath>
+  <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5b544"/><stop offset=".55" stop-color="#ff7a6b"/><stop offset="1" stop-color="#a99bff"/></linearGradient>
+  <linearGradient id="sea" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4fd1c5"/><stop offset="1" stop-color="#a99bff"/></linearGradient>
+  <linearGradient id="trailg" gradientUnits="userSpaceOnUse" x1="90" y1="0" x2="1110" y2="0"><stop offset="0" stop-color="#8b8f9c"/><stop offset=".5" stop-color="#4fd1c5"/><stop offset=".8" stop-color="#f5b544"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+  <radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f5b544" stop-opacity=".22"/><stop offset="1" stop-color="#f5b544" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#frame)">
+<rect class="bg" width="1200" height="260"/>
+<g><line class="grid" x1="0" y1="0" x2="0" y2="260"/><line class="grid" x1="24" y1="0" x2="24" y2="260"/><line class="grid" x1="48" y1="0" x2="48" y2="260"/><line class="grid" x1="72" y1="0" x2="72" y2="260"/><line class="grid" x1="96" y1="0" x2="96" y2="260"/><line class="grid" x1="120" y1="0" x2="120" y2="260"/><line class="grid" x1="144" y1="0" x2="144" y2="260"/><line class="grid" x1="168" y1="0" x2="168" y2="260"/><line class="grid" x1="192" y1="0" x2="192" y2="260"/><line class="grid" x1="216" y1="0" x2="216" y2="260"/><line class="grid" x1="240" y1="0" x2="240" y2="260"/><line class="grid" x1="264" y1="0" x2="264" y2="260"/><line class="grid" x1="288" y1="0" x2="288" y2="260"/><line class="grid" x1="312" y1="0" x2="312" y2="260"/><line class="grid" x1="336" y1="0" x2="336" y2="260"/><line class="grid" x1="360" y1="0" x2="360" y2="260"/><line class="grid" x1="384" y1="0" x2="384" y2="260"/><line class="grid" x1="408" y1="0" x2="408" y2="260"/><line class="grid" x1="432" y1="0" x2="432" y2="260"/><line class="grid" x1="456" y1="0" x2="456" y2="260"/><line class="grid" x1="480" y1="0" x2="480" y2="260"/><line class="grid" x1="504" y1="0" x2="504" y2="260"/><line class="grid" x1="528" y1="0" x2="528" y2="260"/><line class="grid" x1="552" y1="0" x2="552" y2="260"/><line class="grid" x1="576" y1="0" x2="576" y2="260"/><line class="grid" x1="600" y1="0" x2="600" y2="260"/><line class="grid" x1="624" y1="0" x2="624" y2="260"/><line class="grid" x1="648" y1="0" x2="648" y2="260"/><line class="grid" x1="672" y1="0" x2="672" y2="260"/><line class="grid" x1="696" y1="0" x2="696" y2="260"/><line class="grid" x1="720" y1="0" x2="720" y2="260"/><line class="grid" x1="744" y1="0" x2="744" y2="260"/><line class="grid" x1="768" y1="0" x2="768" y2="260"/><line class="grid" x1="792" y1="0" x2="792" y2="260"/><line class="grid" x1="816" y1="0" x2="816" y2="260"/><line class="grid" x1="840" y1="0" x2="840" y2="260"/><line class="grid" x1="864" y1="0" x2="864" y2="260"/><line class="grid" x1="888" y1="0" x2="888" y2="260"/><line class="grid" x1="912" y1="0" x2="912" y2="260"/><line class="grid" x1="936" y1="0" x2="936" y2="260"/><line class="grid" x1="960" y1="0" x2="960" y2="260"/><line class="grid" x1="984" y1="0" x2="984" y2="260"/><line class="grid" x1="1008" y1="0" x2="1008" y2="260"/><line class="grid" x1="1032" y1="0" x2="1032" y2="260"/><line class="grid" x1="1056" y1="0" x2="1056" y2="260"/><line class="grid" x1="1080" y1="0" x2="1080" y2="260"/><line class="grid" x1="1104" y1="0" x2="1104" y2="260"/><line class="grid" x1="1128" y1="0" x2="1128" y2="260"/><line class="grid" x1="1152" y1="0" x2="1152" y2="260"/><line class="grid" x1="1176" y1="0" x2="1176" y2="260"/><line class="grid" x1="1200" y1="0" x2="1200" y2="260"/><line class="grid" x1="0" y1="0" x2="1200" y2="0"/><line class="grid" x1="0" y1="24" x2="1200" y2="24"/><line class="grid" x1="0" y1="48" x2="1200" y2="48"/><line class="grid" x1="0" y1="72" x2="1200" y2="72"/><line class="grid" x1="0" y1="96" x2="1200" y2="96"/><line class="grid" x1="0" y1="120" x2="1200" y2="120"/><line class="grid" x1="0" y1="144" x2="1200" y2="144"/><line class="grid" x1="0" y1="168" x2="1200" y2="168"/><line class="grid" x1="0" y1="192" x2="1200" y2="192"/><line class="grid" x1="0" y1="216" x2="1200" y2="216"/><line class="grid" x1="0" y1="240" x2="1200" y2="240"/></g>
+
+<circle cx="1050" cy="120" r="220" fill="url(#glow)"/>
+<text x="56" y="74" class="muted mono" font-size="14">// let's_collaborate()</text>
+<text x="56" y="126" class="ink" font-size="38" font-weight="800">Have a product that needs to <tspan fill="url(#sun)">feel effortless?</tspan></text>
+<text x="56" y="164" class="muted" font-size="17">Immediate joiner · open to remote, hybrid and on-site roles.</text>
+<g class="cta">
+  <rect x="56" y="188" width="360" height="44" rx="22" fill="url(#sun)"/>
+  <text x="236" y="216" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="700" fill="#0e0f13">shubhamkanungo.vercel.app ↗</text>
+</g>
+<g class="spin"><circle cx="1050" cy="130" r="86" fill="none" stroke="url(#sun)" stroke-width="2" stroke-dasharray="2 9" stroke-linecap="round"/></g>
+<circle cx="1050" cy="130" r="66" fill="#15171d" stroke="#3a3f4d"/>
+<text x="1050" y="150" text-anchor="middle" class="ink" font-size="54" font-weight="800" letter-spacing="-2">S<tspan fill="url(#sun)">K</tspan></text>
+<g class="wave"><circle cx="1116" cy="74" r="8" fill="#34d399"/></g>
+
+</g>
+<rect x=".5" y=".5" width="1199" height="259" rx="22" fill="none" stroke="#262a35"/>
+</svg>
